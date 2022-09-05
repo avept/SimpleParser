@@ -1,6 +1,6 @@
 # SimpleParser
 
-<b>Url to parse - http://mmis.ipt.kpi.ua/educational-programs-ua</b>
+<b>Url to parse - http://mmis.ipt.kpi.ua/</b>
 
 After parsing you will have an articles.json with information</b>
 
